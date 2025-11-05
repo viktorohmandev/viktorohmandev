@@ -1,13 +1,13 @@
-## Hello, I'm Viktor Öhman
+# Hello, I'm Viktor Öhman
 
 I am a developer with interest for AI.
 I like to build practical solutions that makes everything easier.
 
-# My projects right now
+## My projects right now
 - Automatization for accounting
 - AI-based apps and websites
 - Integration of AI in football
 
-# Contact me
+## Contact me
 [LinkedIn](https://se.linkedin.com/in/viktorohman) 
 [E-post](viktor.ohman@mensa.se)
