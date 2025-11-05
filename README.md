@@ -1,6 +1,6 @@
 # Hello, I'm Viktor Öhman
 
-I am a developer with interest for AI.
+I am a developer who is interested in AI.
 I like to build practical solutions that makes everything easier.
 
 ## My projects right now
