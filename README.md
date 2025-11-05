@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello, I'm Viktor Öhman
 
-<!--
-**viktorohmandev/viktorohmandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer with interest for AI.
+I like to build practical solutions that makes everything easier.
 
-Here are some ideas to get you started:
+# My projects right now
+- Automatization for accounting
+- AI-based apps and websites
+- Integration of AI in football
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact me
+[LinkedIn](https://se.linkedin.com/in/viktorohman) 
+[E-post](viktor.ohman@mensa.se)
